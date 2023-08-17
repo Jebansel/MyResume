@@ -1,0 +1,28 @@
+body {
+    background-color: whitesmoke;
+}
+
+/* CSS for OLD WEBSITE */
+#softwareEngineer{
+    color:rgba(230, 22, 22, 0.984)
+}
+
+#personalProfile {
+    color:rgba(230, 22, 22, 0.984)
+}
+/*  */
+
+.skills{
+    position: relative;
+    left: 30px;
+}
+
+.workExperience{
+    position: relative;
+    left: 30px;
+}
+
+.education{
+    position: relative;
+    left: 30px;
+}
